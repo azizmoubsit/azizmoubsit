@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring framework**
 
-- 👨‍💻 All of my projects are available at [https://mymoubsit.c1.biz/](https://mymoubsit.c1.biz/)
+- 👨‍💻 All of my projects are available at [https://azizmoubsit.com](https://azizmoubsit.com)
 
 - 💬 Ask me about **react, java, php, laravl and sql**
 
