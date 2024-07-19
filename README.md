@@ -44,15 +44,6 @@
     alt="azizmoubsit"
     />
 </p>
-
-<p>
-    &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=azizmoubsit&show_icons=true&locale=en"
-    alt="azizmoubsit"
-    />
-</p>
-
 <p>
     <img
     align="center"
